@@ -1,0 +1,11 @@
+#!/bin/bash
+#
+
+# old
+mecalc_ext hd037367 hd064802 --path DAT_files/ --deredden
+
+# new
+mecalc_ext hd037367 hd032630 --path DAT_files/ --deredden
+
+# plot
+meplot_ext hd037367_hd032630 hd037367_hd064802 --path=./ --onefig --log  --alax
