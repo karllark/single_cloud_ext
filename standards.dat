@@ -1,0 +1,55 @@
+
+name       sptype      origin
+hd164794   O5 V(?)     spreadsheet
+hd091824   O6 V        Gordon09
+hd047839   O7 V((f))   Cardelli92
+hd093028   O8 V        Gordon09
+hd214680   O9 V        Cardelli92
+hd116852   O9 III      Gordon09
+hd210809   O9 Ib       Gordon09
+hd038666   O9.5 IV     Cardelli92
+hd091983   O9.5 Ib     Gordon09
+hd188209   O9.6 Ia     Cardelli92
+hd036512   B0 V        Cardelli92
+hd097471   B0 V        Gordon09
+hd051283   B0 IV       spreadsheet
+hd063922   B0 III      Cardelli92
+hd104705   B0 III      Gordon09
+hd204172   B0 Ib       Cardelli92
+hd055857   B0.5 V      Cardelli92
+hd034816   B0.5 IV     spreadsheet
+hd119159   B0.5 III    Cardelli92
+hd172140   B0.5 III    Gordon09
+hd064760   B0.5 Ib     Cardelli92
+hd094493   B0.5 Iab    Gordon09
+hd150898   B0 Ia       Cardelli92
+hd167756   B0 Ia       spreadsheet
+bd52d3210  B1 V        Gordon09
+hd100276   B1 Ib       Gordon09
+hd074273   B1.5 V      Cardelli92
+hd062747   B1.5 III    Cardelli92
+hd075309   B2 Ib       Gordon09
+hd064802   B2 V        Cardelli92
+bd32d270   B2 V        Gordon09
+hd031726   B2 V        spreadsheet
+hd061831   B2.5 V      spreadsheet (IUE standard)
+hd003360   B2 IV       Cardelli92
+hd051283   B2 III      Cardelli92
+hd114444   B2 III      Gordon09
+hd165024   B2 Ib       Cardelli92
+hd051013   B3 V        Gordon09
+hd032630   B3 V        spreadsheet
+hd042560   B3 IV       spreadsheet
+hd235874   B3 III      Gordon09
+hd037332   B4 V        Gordon09
+hd037525   B5 V        Gordon09
+hd034759   B5 III      spreadsheet
+
+hd051038               spreadsheet
+hd078316               spreadsheet
+hd099890               spreadsheet
+hd102552               spreadsheet
+hd147934               spreadsheet
+hd183143               spreadsheet
+hd229059               spreadsheet
+hd194279               spreadsheet
